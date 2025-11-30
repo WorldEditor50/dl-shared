@@ -1,0 +1,8 @@
+# files
+*.pth
+*.pt
+*.onnx
+# folder
+images
+weights
+__pycache__
